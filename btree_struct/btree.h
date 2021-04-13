@@ -2,6 +2,7 @@
 # define FT_BTREE_H
 
 #include <string.h>
+#include </Users/alancel/Desktop/projects/dbms/btree_struct/googletest/googletest/include/gtest/gtest.h>
 
 typedef struct		s_btree
 {
